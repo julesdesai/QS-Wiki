@@ -1,0 +1,12 @@
+# Virtue-Based No False Lemmas
+
+**Node Type:** synthesis
+**Node ID:** 294288c0-919e-4815-83b8-92698ab3b2a2
+**Depth:** 3
+**Terminal:** No
+
+**Parent:** [Do justification, truth, and belief always result in knowledge absent false lemmas?](do-justification-truth-and-belief-always-result-in-knowledge-absent-false-lemmas-antithesis-d81a997a-8843-4b9d-b0c1-f7c3142c7a69.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary that they have justification for believing the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is not based on any false lemma**, **For a person to know a proposition, it is sufficient that they believe the proposition, have virtue-oriented justification, the proposition is true, and the belief is not based on any false lemma**
