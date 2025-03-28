@@ -1,0 +1,12 @@
+# Invariantism with Contextual Sensitivity Summary
+
+**Node Type:** synthesis
+**Node ID:** 37460bc0-129a-4632-965c-a0ebd788772d
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is contextual justification sufficient for knowledge in every instance?](is-contextual-justification-sufficient-for-knowledge-in-every-instance-antithesis-4c54192c-60f7-487e-b2fb-57a8d71b4d9d.md)
+
+## Content
+
+**Knowledge is justified true belief**, **Justification does not vary with context**, **The way people assess justification can vary with context**

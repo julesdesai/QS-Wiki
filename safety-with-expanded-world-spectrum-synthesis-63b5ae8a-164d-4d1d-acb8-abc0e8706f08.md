@@ -1,0 +1,12 @@
+# Safety with Expanded World Spectrum
+
+**Node Type:** synthesis
+**Node ID:** 63b5ae8a-164d-4d1d-acb8-abc0e8706f08
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [How does safety handle distant modal worlds?](how-does-safety-handle-distant-modal-worlds-antithesis-07137865-11af-457f-9076-193ef8fd94a4.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary that the proposition is true**, **A belief is safe if it is true in most nearby possible worlds where it is held**, **The assessment of world relevance includes a spectrum of worlds, extending beyond merely nearby to incorporate significant distant scenarios**

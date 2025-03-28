@@ -1,0 +1,12 @@
+# Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** 658d3bcd-15b4-40a8-aa3a-4c8ed00f48ee
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Are contextual factors reliable indicators of knowledge?](are-contextual-factors-reliable-indicators-of-knowledge-antithesis-2a31742b-b63a-43fc-afd4-e994a4d4a86f.md)
+
+## Content
+
+**A person knows a proposition if they believe it**, **A person knows a proposition if the proposition is true**, **A person knows a proposition if that belief arises from intellectual virtue**, **Knowledge arises from cognitive faculties successfully aimed at truth**

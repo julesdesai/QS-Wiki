@@ -1,0 +1,12 @@
+# Dependable Faculties Epistemology
+
+**Node Type:** synthesis
+**Node ID:** e9c3448a-57f0-4de8-a311-27437085384c
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can knowledge arise from intellectual vices?](can-knowledge-arise-from-intellectual-vices-antithesis-946022b6-91fb-49a4-8001-bd04d6dfe730.md)
+
+## Content
+
+**Knowledge is true belief arising from dependable cognitive faculties**, **For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that their belief arises from dependable cognitive faculties**, **A person knows a proposition if they believe it, the proposition is true, and their belief arises from dependable cognitive faculties**

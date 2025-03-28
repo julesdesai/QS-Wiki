@@ -1,0 +1,12 @@
+# Coherentism with Localized Coherence
+
+**Node Type:** synthesis
+**Node ID:** 413fb7e0-23d6-4b9d-a4a9-f61ced8fb17a
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does infinite chain entail diluting specific belief truth?](does-infinite-chain-entail-diluting-specific-belief-truth-antithesis-6853ca47-c077-4edd-b9db-e2d009a98edf.md)
+
+## Content
+
+**Knowledge is justified true belief**, **A person knows a proposition if they believe it**, **A person knows a proposition if the proposition is true**, **Justification for a belief involves coherence among a finite set of related beliefs**

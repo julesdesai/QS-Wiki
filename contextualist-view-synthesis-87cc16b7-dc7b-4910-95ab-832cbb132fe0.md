@@ -1,0 +1,12 @@
+# Contextualist View
+
+**Node Type:** synthesis
+**Node ID:** 87cc16b7-dc7b-4910-95ab-832cbb132fe0
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does possessing a true belief always require conviction to constitute knowledge?](does-possessing-a-true-belief-always-require-conviction-to-constitute-knowledge-antithesis-af6941fc-516d-4a27-be38-99f137b723e7.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that the proposition is true**, **For a person to know a proposition, it is necessary that the belief meets the standards of knowledge relevant in their context**

@@ -1,0 +1,12 @@
+# Internalist Reliabilist View
+
+**Node Type:** synthesis
+**Node ID:** 9b5ed347-dd0d-4f30-bfa0-0210bdac9819
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does internal justification imply infallibility about one's own reasoning?](does-internal-justification-imply-infallibility-about-ones-own-reasoning-antithesis-887cfb86-a490-43d3-8df2-33040ed19a96.md)
+
+## Content
+
+**Knowledge is true belief that is reliably produced**, **A person knows a proposition if they believe it**, **A person knows a proposition if the proposition is true**, **A belief is justified if it is produced by a reliable process**, **Internal reasons are part of the reliable process but do not guarantee infallibility**

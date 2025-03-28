@@ -1,0 +1,12 @@
+# Holistic Reliabilism
+
+**Node Type:** synthesis
+**Node ID:** 7805cc9a-81a9-4904-8fe4-646631a153e4
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Isn't an infinite regress unsatisfactory for practical epistemic evaluation?](isnt-an-infinite-regress-unsatisfactory-for-practical-epistemic-evaluation-antithesis-b56c1876-c8e2-46ef-9155-a0a4b72c7817.md)
+
+## Content
+
+**Knowledge is justified true belief**, **A person knows a proposition if they believe it**, **A person knows a proposition if the proposition is true**, **Justification arises from the holistic integration of multiple reliable belief-forming processes**

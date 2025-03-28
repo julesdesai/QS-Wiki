@@ -1,0 +1,12 @@
+# Virtue Epistemology: Intellectual Virtues
+
+**Node Type:** synthesis
+**Node ID:** 9130ff2d-1092-4eff-b843-c9486ff385a9
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is it possible for a strongly coherent belief system to be based on a single falsehood?](is-it-possible-for-a-strongly-coherent-belief-system-to-be-based-on-a-single-falsehood-antithesis-dbb8c59c-7fd5-4a86-8ceb-b0d4e5620339.md)
+
+## Content
+
+**Knowledge is justified true belief**, **A person knows a proposition if they believe it**, **A person knows a proposition if the proposition is true**, **Justification for a belief is based on intellectual virtues possessed by the believer**

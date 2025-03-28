@@ -1,0 +1,12 @@
+# Pragmatic Infinitism
+
+**Node Type:** synthesis
+**Node ID:** 9324d3fb-4898-40a7-b398-9411f7f8fc03
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can Infinitism accommodate the closure principle?](can-infinitism-accommodate-the-closure-principle-antithesis-ced05163-cdbf-4346-8230-d06664f95b31.md)
+
+## Content
+
+**For a person to know a proposition, there must be an infinite, non-repeating chain of justifications**, **A person knows a proposition if they believe it and the belief has practical utility or success**, **A person knows a proposition if the proposition is true**, **An infinite chain of reasons supports a belief continuously**

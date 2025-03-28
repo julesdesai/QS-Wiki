@@ -1,0 +1,12 @@
+# Significance-Weighted Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** 0dadf982-9e96-4e99-bfe5-85aa5801dcaa
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does virtue overlook significance in knowledge?](does-virtue-overlook-significance-in-knowledge-antithesis-cf6265d0-f1bf-4431-bf97-14a3000a1de3.md)
+
+## Content
+
+**Knowledge requires true belief that results from intellectual virtue**, **An intellectual virtue is a character trait that reliably leads to truth**, **A person knows a proposition if they believe it through the exercise of virtue, and the belief is true**, **The significance or importance of the truth for the knower affects the degree of knowledge attributed to them**

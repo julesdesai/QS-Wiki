@@ -1,0 +1,12 @@
+# Contextual Coherence with Objective Reality Check
+
+**Node Type:** synthesis
+**Node ID:** 45d6c5c7-cbbc-448a-a631-db12387e5323
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is coherence sufficient for truth in contextual coherentism?](is-coherence-sufficient-for-truth-in-contextual-coherentism-antithesis-27315932-fe8d-42bc-ab29-50667c388fc7.md)
+
+## Content
+
+**Knowledge is true belief that fits into a coherent system within a specific context**, **Justification depends on the context in which the belief is held**, **A belief is justified if it coheres with other beliefs relevant to the context**, **Different contexts may have different criteria for coherence**, **Coherence must align with empirical evidence to ground the truth of beliefs**

@@ -1,0 +1,12 @@
+# Moderate Invariantism
+
+**Node Type:** synthesis
+**Node ID:** a15eaa19-91b1-4e17-9d61-a0b922184146
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does contextualism adequately address the fixed nature of truth?](does-contextualism-adequately-address-the-fixed-nature-of-truth-antithesis-c3ff5c8f-2d40-4161-8466-faf8caa6aa72.md)
+
+## Content
+
+**Truth is context-independent**, **Knowledge standards are moderately fixed but allow for minor contextual shifts**, **A person knows a proposition if they satisfy the moderately invariant standards**

@@ -1,0 +1,12 @@
+# Virtue Epistemology Summary
+
+**Node Type:** synthesis
+**Node ID:** 3fa55988-6fa6-40de-bce3-a8c768653ab3
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Do certain reliable processes ignore pivotal evidence while forming beliefs?](do-certain-reliable-processes-ignore-pivotal-evidence-while-forming-beliefs-antithesis-76148588-0493-4247-88c5-3cf7c3f60cb1.md)
+
+## Content
+
+**A belief constitutes knowledge if it is formed through cognitive ability**, **Cognitive ability is understood as a reliable and truth-conducive process**, **A person knows a proposition if the proposition is true**, **A person knows a proposition if they believe it**, **The belief-forming process must be guided by intellectual virtue**

@@ -1,0 +1,12 @@
+# Virtue Epistemology with External Factors
+
+**Node Type:** synthesis
+**Node ID:** 9743c1a8-a26a-48e2-b5b1-4726b17d9a17
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does epistemic externalism provide a platform for intellectual irresponsibility?](does-epistemic-externalism-provide-a-platform-for-intellectual-irresponsibility-antithesis-6a079dfd-8e77-4635-ba63-4bfeebc7d79e.md)
+
+## Content
+
+**Knowledge depends on factors external to the knower’s mental states**, **A person knows a proposition if there are external factors justifying the belief**, **A person knows a proposition if the proposition is true**, **A belief qualifies as knowledge only if the knower exercises intellectual virtues such as open-mindedness**, **The knower must actively engage in virtues of critical thinking to avoid disregarding counterevidence**

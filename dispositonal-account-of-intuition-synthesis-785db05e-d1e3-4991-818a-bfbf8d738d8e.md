@@ -1,0 +1,12 @@
+# Dispositonal Account of Intuition
+
+**Node Type:** synthesis
+**Node ID:** 785db05e-d1e3-4991-818a-bfbf8d738d8e
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does the theory neglect the role of intuitive or non-analytical knowledge?](does-the-theory-neglect-the-role-of-intuitive-or-non-analytical-knowledge-antithesis-c53a36ff-e27f-4949-bd42-5a51211c1b3b.md)
+
+## Content
+
+**A person knows a proposition if the proposition is true**, **A person knows a proposition if they believe the proposition**, **A person knows a proposition if their belief is formed through reliable intuition**, **Intuition is understood as a cognitive disposition reflecting understanding**

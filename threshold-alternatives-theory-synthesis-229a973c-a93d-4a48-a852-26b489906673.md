@@ -1,0 +1,12 @@
+# Threshold Alternatives Theory
+
+**Node Type:** synthesis
+**Node ID:** 229a973c-a93d-4a48-a852-26b489906673
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is it feasible to account for all relevant alternatives in every situation?](is-it-feasible-to-account-for-all-relevant-alternatives-in-every-situation-antithesis-bd1c2054-436b-4f56-9c18-9b6df098ef71.md)
+
+## Content
+
+**A person knows a proposition if they believe the proposition**, **A person knows a proposition if the proposition is true**, **A person knows a proposition if they have justification for believing the proposition**, **A person can rule out alternatives to the proposition that are above a knowledge threshold**

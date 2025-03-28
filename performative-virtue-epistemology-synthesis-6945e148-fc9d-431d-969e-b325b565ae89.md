@@ -1,0 +1,12 @@
+# Performative virtue epistemology
+
+**Node Type:** synthesis
+**Node ID:** 6945e148-fc9d-431d-969e-b325b565ae89
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is it possible for someone to exhibit intellectual virtues without knowing?](is-it-possible-for-someone-to-exhibit-intellectual-virtues-without-knowing-antithesis-fe412b92-2a55-415e-81d0-605b0a9b82ed.md)
+
+## Content
+
+**Knowledge is justified true belief**, **A person knows a proposition if they believe it**, **A person knows a proposition if the proposition is true**, **Intellectual virtues are performative acts that successfully aim at truth**

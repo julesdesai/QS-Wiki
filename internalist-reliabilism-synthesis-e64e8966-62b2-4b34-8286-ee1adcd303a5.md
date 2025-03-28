@@ -1,0 +1,12 @@
+# Internalist Reliabilism
+
+**Node Type:** synthesis
+**Node ID:** e64e8966-62b2-4b34-8286-ee1adcd303a5
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does reliabilism struggle with explaining the Gettier cases?](does-reliabilism-struggle-with-explaining-the-gettier-cases-antithesis-434f8a13-1515-49f7-acbe-e3e5686b70cd.md)
+
+## Content
+
+**Knowledge is justified true belief**, **A person knows a proposition if they believe it**, **A person knows a proposition if the proposition is true**, **Justification for a belief is provided by reliable cognitive processes**, **The agent must be aware of or have access to the reliability of the cognitive process**
