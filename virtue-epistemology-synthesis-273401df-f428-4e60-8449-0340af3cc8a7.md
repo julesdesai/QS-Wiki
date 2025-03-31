@@ -1,0 +1,12 @@
+# Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** 273401df-f428-4e60-8449-0340af3cc8a7
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is the Safety Condition affected by environmental luck?](is-the-safety-condition-affected-by-environmental-luck-antithesis-8aa55a1d-8096-4a0c-9bf5-daba6cc750f9.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is the result of a reliable cognitive ability or virtue**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief arises from intellectual virtue**

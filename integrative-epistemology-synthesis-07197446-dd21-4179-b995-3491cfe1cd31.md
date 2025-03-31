@@ -1,0 +1,12 @@
+# Integrative Epistemology
+
+**Node Type:** synthesis
+**Node ID:** 07197446-dd21-4179-b995-3491cfe1cd31
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can intellectual virtues guarantee knowledge in inherently uncertain domains?](can-intellectual-virtues-guarantee-knowledge-in-inherently-uncertain-domains-antithesis-dcc8f9b1-fa7c-49d2-a0b1-482634bfd5f3.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is formed by integrating intellectual virtue and coherentist alignment of beliefs**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and their belief is a result of both intellectual virtue and coherence with other beliefs**

@@ -1,0 +1,12 @@
+# Subject-Sensitive Invariantism
+
+**Node Type:** synthesis
+**Node ID:** 53327bcb-7519-454e-8f12-544557693016
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does knowledge require a fixed standard of justification?](does-knowledge-require-a-fixed-standard-of-justification-antithesis-03c5fb8b-d9f0-4368-bee0-aad1353f0613.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **The required standard of justification can be influenced by the subject's interests or practical stakes**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and justification aligns with interests or stakes**

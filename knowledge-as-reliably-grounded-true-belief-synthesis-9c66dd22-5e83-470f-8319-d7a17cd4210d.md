@@ -1,0 +1,12 @@
+# Knowledge as Reliably Grounded True Belief
+
+**Node Type:** synthesis
+**Node ID:** 9c66dd22-5e83-470f-8319-d7a17cd4210d
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can we know from testimony with overlooked falsehoods?](can-we-know-from-testimony-with-overlooked-falsehoods-antithesis-263e6aa5-6c7f-4847-9f91-658723472c91.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that their belief be formed through a reliable process**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and their belief is formed through a reliable process**

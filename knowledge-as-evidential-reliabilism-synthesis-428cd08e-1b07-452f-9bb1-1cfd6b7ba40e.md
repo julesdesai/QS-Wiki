@@ -1,0 +1,12 @@
+# Knowledge as Evidential Reliabilism
+
+**Node Type:** synthesis
+**Node ID:** 428cd08e-1b07-452f-9bb1-1cfd6b7ba40e
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can a belief from a reliable process lack justification?](can-a-belief-from-a-reliable-process-lack-justification-antithesis-36048d97-a59f-43bd-97c2-be0587e394b2.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is produced by a process that reliably produces true beliefs**, **For a person to know a proposition, it is necessary that the person has appropriate evidential support for their belief**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, the belief is produced by a process that reliably produces true beliefs and the person has appropriate evidential support for their belief**

@@ -1,0 +1,12 @@
+# Knowledge as Reliably Produced True Belief with Understanding
+
+**Node Type:** synthesis
+**Node ID:** c5df755e-71ef-4e73-aa47-0daa002989cc
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can a belief produced by a reliable but misunderstood process count as knowledge?](can-a-belief-produced-by-a-reliable-but-misunderstood-process-count-as-knowledge-antithesis-8e2dc796-a26a-429e-baf0-954de472ea3f.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process**, **For a person to know a proposition, it is necessary that the person has an understanding of why the belief is true**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, the belief is produced by a reliable cognitive process, and the person understands why it is true**

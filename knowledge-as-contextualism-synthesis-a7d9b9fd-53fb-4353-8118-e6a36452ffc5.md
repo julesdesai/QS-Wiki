@@ -1,0 +1,12 @@
+# Knowledge as Contextualism
+
+**Node Type:** synthesis
+**Node ID:** a7d9b9fd-53fb-4353-8118-e6a36452ffc5
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does the safety condition appropriately handle Gettier cases?](does-the-safety-condition-appropriately-handle-gettier-cases-antithesis-b98d9906-a224-461f-a37d-1cc2396d1746.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary for the standards for 'knowing' to be satisfied relative to the conversational context**

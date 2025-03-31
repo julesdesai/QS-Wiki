@@ -1,0 +1,12 @@
+# Contextualist Coherentism
+
+**Node Type:** synthesis
+**Node ID:** f5986d10-973a-4ea6-93dc-2bbe123526b3
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does coherentism adequately address Gettier problems?](does-coherentism-adequately-address-gettier-problems-antithesis-a52b145e-ffa6-484e-8403-bb4053cb0c63.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief coheres with a set of mutually supportive beliefs**, **For a person to know a proposition, it is necessary that the standards of justification are determined by the context**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, the belief coheres with a set of mutually supportive beliefs, and the standards of justification are determined by the context**

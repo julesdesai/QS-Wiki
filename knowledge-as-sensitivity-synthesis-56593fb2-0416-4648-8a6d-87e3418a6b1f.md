@@ -1,0 +1,12 @@
+# Knowledge as Sensitivity
+
+**Node Type:** synthesis
+**Node ID:** 56593fb2-0416-4648-8a6d-87e3418a6b1f
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can beliefs about future events count as knowledge when based on present intellectual virtues?](can-beliefs-about-future-events-count-as-knowledge-when-based-on-present-intellectual-virtues-antithesis-74480344-08b8-4368-8771-69be931ff5c7.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **Justification requires that if the proposition were false, the person would not believe it**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and their belief is sensitive to the truth**

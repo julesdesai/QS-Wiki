@@ -1,0 +1,12 @@
+# Knowledge with Reliabilism
+
+**Node Type:** synthesis
+**Node ID:** f6f4f88a-58fd-41c2-b10f-e0b6cd4b7c01
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does belief sensitivity exclude some cases of knowledge?](does-belief-sensitivity-exclude-some-cases-of-knowledge-antithesis-56aec986-d647-409a-9752-17aeca9ed460.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary that their belief results from a reliable process**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is sufficient that they believe the proposition, the belief results from a reliable process, and the proposition is true**

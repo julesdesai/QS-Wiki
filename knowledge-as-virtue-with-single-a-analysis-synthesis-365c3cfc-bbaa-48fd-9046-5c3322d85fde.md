@@ -1,0 +1,12 @@
+# Knowledge as Virtue with Single A Analysis
+
+**Node Type:** synthesis
+**Node ID:** 365c3cfc-bbaa-48fd-9046-5c3322d85fde
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does the demandingness of the Triple A Analysis pose a practical issue?](does-the-demandingness-of-the-triple-a-analysis-pose-a-practical-issue-antithesis-e353dd2f-d45b-4702-94bd-7674aaf6d089.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief arises from intellectual virtue**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief arises from intellectual virtue**

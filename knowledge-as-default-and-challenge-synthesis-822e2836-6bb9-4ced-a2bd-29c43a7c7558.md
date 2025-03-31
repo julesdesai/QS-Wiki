@@ -1,0 +1,12 @@
+# Knowledge as Default and Challenge
+
+**Node Type:** synthesis
+**Node ID:** 822e2836-6bb9-4ced-a2bd-29c43a7c7558
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is knowledge through testimony possible without intellectual virtue?](is-knowledge-through-testimony-possible-without-intellectual-virtue-antithesis-f4ab5aef-74f4-4d27-a5df-8c6051614b3f.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a belief to constitute knowledge, it is necessary that it is not defeated by any challenges**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief is not defeated by any challenges**

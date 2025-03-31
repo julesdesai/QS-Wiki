@@ -1,0 +1,12 @@
+# Knowledge as Minimal Contextualism
+
+**Node Type:** synthesis
+**Node ID:** 6ac2e271-6880-423b-852e-1ffc569648ac
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [How does contextualism handle contradictory knowledge claims across contexts?](how-does-contextualism-handle-contradictory-knowledge-claims-across-contexts-antithesis-a7c853ed-adb5-4fa2-a279-fada46372ca3.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **The standards for what counts as knowing a proposition are minimally context-dependent and limited**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief meets these minimal contextual standards**

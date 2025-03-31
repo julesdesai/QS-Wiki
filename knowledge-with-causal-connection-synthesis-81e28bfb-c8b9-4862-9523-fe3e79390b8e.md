@@ -1,0 +1,12 @@
+# Knowledge with Causal Connection
+
+**Node Type:** synthesis
+**Node ID:** 81e28bfb-c8b9-4862-9523-fe3e79390b8e
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can practical consequences suffice for knowledge on their own?](can-practical-consequences-suffice-for-knowledge-on-their-own-antithesis-268389fb-ca13-44d8-9776-f1f95565a979.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that there is a causal connection between the truth of the proposition and the person's belief in the proposition**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and there is a causal connection between the truth of the proposition and their belief**

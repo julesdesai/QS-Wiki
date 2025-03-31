@@ -1,0 +1,12 @@
+# Knowledge as Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** ed50655e-b618-45e3-979d-d65702bf8ea2
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is sensitivity too stringent a requirement for historical knowledge?](is-sensitivity-too-stringent-a-requirement-for-historical-knowledge-antithesis-b8a230f2-5828-4f50-a94f-e558733172c4.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the person’s belief arises from intellectual virtue**, **An intellectual virtue reliably leads to truth**

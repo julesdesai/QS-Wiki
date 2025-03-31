@@ -1,0 +1,12 @@
+# Knowledge as Reliabilism
+
+**Node Type:** synthesis
+**Node ID:** ecc7da52-9077-44c2-a600-864fdd5b97e4
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does a coherent belief system rule out skeptical scenarios?](does-a-coherent-belief-system-rule-out-skeptical-scenarios-antithesis-93c415ee-4cf3-49a9-8d03-e6bbc609860f.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that their belief is produced by a reliable cognitive process**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and their belief is produced by a reliable cognitive process**

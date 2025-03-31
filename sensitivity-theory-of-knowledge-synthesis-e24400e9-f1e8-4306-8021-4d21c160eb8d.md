@@ -1,0 +1,12 @@
+# Sensitivity Theory of Knowledge
+
+**Node Type:** synthesis
+**Node ID:** e24400e9-f1e8-4306-8021-4d21c160eb8d
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is a belief that meets contextual standards always knowledge?](is-a-belief-that-meets-contextual-standards-always-knowledge-antithesis-a17e9a10-3fb0-4b2c-9a9f-d6b50345d39a.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **If the proposition were false, the person would not believe it**, **The belief must not rely solely on contextual standards for justification**

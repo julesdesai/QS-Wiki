@@ -1,0 +1,12 @@
+# Revised Adaptive Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** 71be1074-fb1c-4f3f-83c2-6ef1a027130a
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Are all believed truths necessarily knowledge if competencies adapt?](are-all-believed-truths-necessarily-knowledge-if-competencies-adapt-antithesis-974bef5a-912c-4ae2-8a8b-003878572fc6.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief arises from intellectual virtue or competence**, **For a proposition to count as knowledge, it is necessary that the intellectual virtues are reliable across different environments**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the intellectual virtues are reliably responsive across contexts**

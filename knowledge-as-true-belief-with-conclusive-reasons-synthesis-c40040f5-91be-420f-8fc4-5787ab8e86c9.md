@@ -1,0 +1,12 @@
+# Knowledge as True Belief with Conclusive Reasons
+
+**Node Type:** synthesis
+**Node ID:** c40040f5-91be-420f-8fc4-5787ab8e86c9
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Are knowledge claims sensitive to changes in context that challenge justified true belief?](are-knowledge-claims-sensitive-to-changes-in-context-that-challenge-justified-true-belief-antithesis-aff056ef-c516-4872-9475-bc29e3080778.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the person has conclusive reasons for the belief**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and there are conclusive reasons for the belief**

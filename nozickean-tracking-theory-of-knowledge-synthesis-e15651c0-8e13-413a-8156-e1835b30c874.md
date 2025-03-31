@@ -1,0 +1,12 @@
+# Nozickean Tracking Theory of Knowledge
+
+**Node Type:** synthesis
+**Node ID:** e15651c0-8e13-413a-8156-e1835b30c874
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Do intuitions about cases of acquired beliefs without justification matter?](do-intuitions-about-cases-of-acquired-beliefs-without-justification-matter-antithesis-b533d21a-085a-4e42-82a4-a40deff4d020.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that if the proposition were false, the person would not believe it**, **For a person to know a proposition, it is necessary that if the proposition were true, the person would believe it**

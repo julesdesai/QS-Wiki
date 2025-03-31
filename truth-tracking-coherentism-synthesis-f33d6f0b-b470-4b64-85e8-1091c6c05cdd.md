@@ -1,0 +1,12 @@
+# Truth-Tracking Coherentism
+
+**Node Type:** synthesis
+**Node ID:** f33d6f0b-b470-4b64-85e8-1091c6c05cdd
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can isolated coherent systems have true knowledge?](can-isolated-coherent-systems-have-true-knowledge-antithesis-23972e2f-a0fd-4ae3-a263-ba15391f4a04.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a belief to cohere with a system, it is necessary that the system tracks the truth**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief coheres with a truth-tracking system**

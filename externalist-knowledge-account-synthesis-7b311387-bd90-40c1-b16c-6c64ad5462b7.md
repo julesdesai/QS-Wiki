@@ -1,0 +1,12 @@
+# Externalist Knowledge Account
+
+**Node Type:** synthesis
+**Node ID:** 7b311387-bd90-40c1-b16c-6c64ad5462b7
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Do animals have knowledge without internal justification awareness?](do-animals-have-knowledge-without-internal-justification-awareness-antithesis-531a3a95-7ff3-4371-9448-ff9a535a039b.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is sufficient that the true belief was produced by a reliable cognitive process**

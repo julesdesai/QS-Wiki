@@ -1,0 +1,12 @@
+# Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** 00eb7e86-0109-49fe-8341-d9938deceddf
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does the Safety Theory address knowledge from unrepeatable events?](does-the-safety-theory-address-knowledge-from-unrepeatable-events-antithesis-fba696c4-2787-41db-ada4-385bd4a3df9e.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary that the proposition is true**, **For a person to know a proposition, it is necessary that the belief results from the exercise of intellectual virtue**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief is the result of intellectual virtue**

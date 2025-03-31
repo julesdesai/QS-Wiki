@@ -1,0 +1,12 @@
+# Contextualist Theory of Knowledge
+
+**Node Type:** synthesis
+**Node ID:** e63e742d-5158-4089-8f28-97e82d652f16
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is sensitivity undermined by knowledge despite irrelevant beliefs?](is-sensitivity-undermined-by-knowledge-despite-irrelevant-beliefs-antithesis-71a846a5-6aa6-4a8d-8ab5-6553dcfaf0c8.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the person has a good reason to believe the proposition given the context**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and they have a good reason to believe the proposition given the context**

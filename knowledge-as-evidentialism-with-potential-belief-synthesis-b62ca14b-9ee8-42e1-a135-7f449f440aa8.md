@@ -1,0 +1,12 @@
+# Knowledge as Evidentialism with Potential Belief
+
+**Node Type:** synthesis
+**Node ID:** b62ca14b-9ee8-42e1-a135-7f449f440aa8
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can one have justification without belief?](can-one-have-justification-without-belief-antithesis-f39668ba-05cb-4079-9e25-0f9031bfaa6f.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they have potential belief in the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **A person is justified in believing a proposition if and only if the belief fits the person's evidence**, **Justification is determined by the quality of the available evidence**

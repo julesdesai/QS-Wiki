@@ -1,0 +1,12 @@
+# Virtue Reliabilism
+
+**Node Type:** synthesis
+**Node ID:** d28124b0-06f7-4c73-80f7-d4c44045df09
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is the role of luck completely negated by a reliable process?](is-the-role-of-luck-completely-negated-by-a-reliable-process-antithesis-66f19d83-b78f-4157-972f-78193ab6bf8c.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is produced by an epistemic virtue**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief is produced by an epistemic virtue**

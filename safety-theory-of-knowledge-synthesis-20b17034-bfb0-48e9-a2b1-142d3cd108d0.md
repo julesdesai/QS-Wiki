@@ -1,0 +1,12 @@
+# Safety Theory of Knowledge
+
+**Node Type:** synthesis
+**Node ID:** 20b17034-bfb0-48e9-a2b1-142d3cd108d0
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does reliabilism adequately address clairvoyant cases?](does-reliabilism-adequately-address-clairvoyant-cases-antithesis-8060bc54-7cd1-40f8-9d3e-6bac13ead02b.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary that the belief could not have easily been false**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is sufficient that they believe the proposition, the belief could not have easily been false, and the proposition is true**

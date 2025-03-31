@@ -1,0 +1,12 @@
+# Knowledge as Safe Belief with Reliability
+
+**Node Type:** synthesis
+**Node ID:** 775cf6af-0e5e-4756-8f13-a4b1db542ee7
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is it possible to know by accident under the safety condition?](is-it-possible-to-know-by-accident-under-the-safety-condition-antithesis-7284b718-ad9d-48cb-889e-a88ffd9c4660.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary that they have justification for believing the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that in nearby possible worlds, if the person believes the proposition, then the proposition is not false**, **For a person to know a proposition, it is necessary that the belief is formed through a reliable process**, **For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, in nearby possible worlds if the person believes the proposition, then the proposition is not false, and the belief is formed through a reliable process**

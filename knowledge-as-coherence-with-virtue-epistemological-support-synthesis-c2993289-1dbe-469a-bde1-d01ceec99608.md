@@ -1,0 +1,12 @@
+# Knowledge as Coherence with Virtue-Epistemological Support
+
+**Node Type:** synthesis
+**Node ID:** c2993289-1dbe-469a-bde1-d01ceec99608
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Is experience sufficient for coherence to yield knowledge?](is-experience-sufficient-for-coherence-to-yield-knowledge-antithesis-a39ba8f8-bb04-4955-a582-e4a88fe990e0.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief coheres with a system of connected beliefs and that justificatory support is gained through epistemic virtues such as intellectual honesty or diligence**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief coheres with a system of connected beliefs and that justificatory support is gained through epistemic virtues such as intellectual honesty or diligence**

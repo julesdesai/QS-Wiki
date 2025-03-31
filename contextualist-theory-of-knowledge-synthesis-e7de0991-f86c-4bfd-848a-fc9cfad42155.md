@@ -1,0 +1,12 @@
+# Contextualist Theory of Knowledge
+
+**Node Type:** synthesis
+**Node ID:** e7de0991-f86c-4bfd-848a-fc9cfad42155
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does environmental luck challenge tracking?](does-environmental-luck-challenge-tracking-antithesis-7dc4cf90-f422-4b1b-b65d-ce1118926f74.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the standards for knowledge are met relative to the epistemic context**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and contextually relevant standards for knowledge are satisfied**

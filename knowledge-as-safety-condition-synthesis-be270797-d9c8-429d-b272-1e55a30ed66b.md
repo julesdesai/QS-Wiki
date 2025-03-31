@@ -1,0 +1,12 @@
+# Knowledge as Safety Condition
+
+**Node Type:** synthesis
+**Node ID:** be270797-d9c8-429d-b272-1e55a30ed66b
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can inferential justification be undermined?](can-inferential-justification-be-undermined-antithesis-dcf5873e-f5d7-4f71-95a4-955c3c43ea3d.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that their belief is safe from error in nearby possible worlds**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and their belief is safe from error in nearby possible worlds**

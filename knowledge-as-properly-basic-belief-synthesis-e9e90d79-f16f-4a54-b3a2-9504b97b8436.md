@@ -1,0 +1,12 @@
+# Knowledge as Properly Basic Belief
+
+**Node Type:** synthesis
+**Node ID:** e9e90d79-f16f-4a54-b3a2-9504b97b8436
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can the sensitivity condition accommodate cases of necessary truths?](can-the-sensitivity-condition-accommodate-cases-of-necessary-truths-antithesis-f41ca21d-eadd-4d7b-bd43-fc262e95351e.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary that they have justification for believing the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is formed by a properly functioning cognitive faculty in an appropriate cognitive environment**, **For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the belief is formed by a properly functioning cognitive faculty in an appropriate cognitive environment**

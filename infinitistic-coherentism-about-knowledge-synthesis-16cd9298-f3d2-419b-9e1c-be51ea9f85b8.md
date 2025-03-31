@@ -1,0 +1,12 @@
+# Infinitistic Coherentism about Knowledge
+
+**Node Type:** synthesis
+**Node ID:** 16cd9298-f3d2-419b-9e1c-be51ea9f85b8
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [How can human beings comprehend or verify an infinite chain of reasoning?](how-can-human-beings-comprehend-or-verify-an-infinite-chain-of-reasoning-antithesis-062c5f9d-25b6-4366-9048-7537324a1539.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is supported by an infinite yet comprehensible and coherent chain of reasoning**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief is supported by an infinite yet comprehensible and coherent chain of reasoning**

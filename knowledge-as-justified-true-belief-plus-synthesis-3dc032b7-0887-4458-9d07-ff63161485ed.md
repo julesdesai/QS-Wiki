@@ -1,0 +1,12 @@
+# Knowledge as Justified True Belief Plus
+
+**Node Type:** synthesis
+**Node ID:** 3dc032b7-0887-4458-9d07-ff63161485ed
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can children possess knowledge without intellectual virtue?](can-children-possess-knowledge-without-intellectual-virtue-antithesis-103ae4e9-dd90-47a3-96d8-7c44f5803ce8.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that they have justification for believing the proposition**, **For a person to know a proposition, it is necessary that no false belief underlies the justification**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, they have justification for believing the proposition, and no false belief underlies the justification**

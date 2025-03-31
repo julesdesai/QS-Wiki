@@ -1,0 +1,12 @@
+# Moderate Contextualism
+
+**Node Type:** synthesis
+**Node ID:** 8fde0ab6-c7d3-4579-9d64-28ee0274e05b
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does contextualism collapse into relativism about truth?](does-contextualism-collapse-into-relativism-about-truth-antithesis-0bad5d7b-0af2-4a47-b4a4-c062efbb8ded.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the justification includes some objective criteria, although it can be supplemented by contextual considerations**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the justification meets both objective and contextual criteria**

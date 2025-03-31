@@ -1,0 +1,12 @@
+# Infallibilist View of Knowledge
+
+**Node Type:** synthesis
+**Node ID:** 57440670-b2c5-4431-aafa-8984223a4ba7
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can a safe belief fail conceptual rigour if it leads to strange conclusions?](can-a-safe-belief-fail-conceptual-rigour-if-it-leads-to-strange-conclusions-antithesis-712f7cae-cebc-4804-b93c-b9468466d554.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that they have infallible justification for believing the proposition**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and they have infallible justification**

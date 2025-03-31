@@ -1,0 +1,12 @@
+# Knowledge as Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** 026196a4-4da1-4a35-ac90-368b13d11f1a
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does probabilistic reasoning handle the problem of underdetermination?](does-probabilistic-reasoning-handle-the-problem-of-underdetermination-antithesis-cbd3805d-ad2d-433c-89ce-ccf25317ecf2.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief arises from an intellectual virtue**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief arises from an intellectual virtue**

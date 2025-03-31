@@ -1,0 +1,12 @@
+# Stable Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** 81f9f21e-5c38-448e-a143-c5f80089bc82
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Could a true belief formed by an unreliable method still count as knowledge?](could-a-true-belief-formed-by-an-unreliable-method-still-count-as-knowledge-antithesis-d943c190-3ec0-4eaf-8d63-4ebd821e730f.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief arises from the exercise of intellectual virtues**, **Intellectual virtues must yield consistent truth across varied contexts and conditions**

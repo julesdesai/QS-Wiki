@@ -1,0 +1,12 @@
+# Knowledge as Foundationalism with Basic Beliefs
+
+**Node Type:** synthesis
+**Node ID:** c8ccae54-6733-4134-82b2-88135bc4b6e3
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Does inferentially rich knowledge necessitate infinitism?](does-inferentially-rich-knowledge-necessitate-infinitism-antithesis-6bdc3334-09d8-4fe7-83b8-f82fbd8522b4.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that their belief is ultimately supported by basic beliefs**, **Basic beliefs do not require support from other beliefs**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and their belief is ultimately supported by basic beliefs**

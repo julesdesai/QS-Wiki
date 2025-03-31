@@ -1,0 +1,12 @@
+# Knowledge as Defeasible Justification
+
+**Node Type:** synthesis
+**Node ID:** 5e098e50-59f4-42de-855f-9ab4a733fae4
+**Depth:** 5
+**Terminal:** No
+
+**Parent:** [Can someone know a false proposition?](can-someone-know-a-false-proposition-antithesis-d831add4-ec07-407a-92b5-56cdb9245339.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that they have justification for believing the proposition that is not defeated by further evidence**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and they have justification for the belief that withstands counter-evidence**
